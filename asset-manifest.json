@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactAdvancedTodo/static/css/main.1ede93b6.chunk.css",
+    "main.js": "/reactAdvancedTodo/static/js/main.a5787f40.chunk.js",
+    "main.js.map": "/reactAdvancedTodo/static/js/main.a5787f40.chunk.js.map",
+    "runtime-main.js": "/reactAdvancedTodo/static/js/runtime-main.73e8e05c.js",
+    "runtime-main.js.map": "/reactAdvancedTodo/static/js/runtime-main.73e8e05c.js.map",
+    "static/js/2.8342f0b3.chunk.js": "/reactAdvancedTodo/static/js/2.8342f0b3.chunk.js",
+    "static/js/2.8342f0b3.chunk.js.map": "/reactAdvancedTodo/static/js/2.8342f0b3.chunk.js.map",
+    "index.html": "/reactAdvancedTodo/index.html",
+    "precache-manifest.708c6578403486e2198071e2083dc7f0.js": "/reactAdvancedTodo/precache-manifest.708c6578403486e2198071e2083dc7f0.js",
+    "service-worker.js": "/reactAdvancedTodo/service-worker.js",
+    "static/css/main.1ede93b6.chunk.css.map": "/reactAdvancedTodo/static/css/main.1ede93b6.chunk.css.map",
+    "static/js/2.8342f0b3.chunk.js.LICENSE.txt": "/reactAdvancedTodo/static/js/2.8342f0b3.chunk.js.LICENSE.txt",
+    "static/media/add.svg": "/reactAdvancedTodo/static/media/add.04bce1ba.svg",
+    "static/media/close.svg": "/reactAdvancedTodo/static/media/close.10c581b6.svg",
+    "static/media/edit.svg": "/reactAdvancedTodo/static/media/edit.e6d3868a.svg",
+    "static/media/remove.svg": "/reactAdvancedTodo/static/media/remove.95f30ee9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e8e05c.js",
+    "static/js/2.8342f0b3.chunk.js",
+    "static/css/main.1ede93b6.chunk.css",
+    "static/js/main.a5787f40.chunk.js"
+  ]
+}
